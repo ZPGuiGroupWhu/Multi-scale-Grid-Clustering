@@ -3,14 +3,14 @@ Datasets and codes of multi-scale grid clustering (MSGC)
 <<<<<<< HEAD
 =======
 
-#Java (The jave codes for MSGC)
-The code can be used to test the overall workflow of MSGC
+#Java 
+#The Java codes can be used to test the overall workflow of MSGC
 
-#Matlab (The matlad codes for MASC)
-The code can be used to test the workflow of MASC
+#Matlab
+#The Matlab code can be used to test the workflow of MASC
 
-#ClusteringDatasets (Artificial datasets for clustering)
-Several artificial datasets for testing clustering algorithms
+#ClusteringDatasets
+#Several artificial datasets for testing clustering algorithms
 
 If you use the datasets or codes please cite this paper:
 
